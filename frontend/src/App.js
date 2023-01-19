@@ -170,7 +170,7 @@ class App extends React.Component {
                          </div>
 
                          <div style={{flex: 1}}>
-                            <input id="submit" className="btn btn-warning" type="submit" name="Add" />
+                            <input id="submit" className="btn btn-red" type="submit" name="Add" />
                           </div>
                       </div>
                 </form>
