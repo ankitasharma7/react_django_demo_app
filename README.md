@@ -2,3 +2,5 @@
 A demo app for React and Django Deployment
 
 docker-compose up
+
+doing again
